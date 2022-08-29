@@ -29,3 +29,10 @@
 - https://www.awwwards.com/websites/nominees/
 
 ![image](https://user-images.githubusercontent.com/35313138/187122933-436b2af6-9023-4404-876e-4b9bead41951.png)
+
+## Color 
+
+### Color Hunt 
+- https://colorhunt.co/
+
+![image](https://user-images.githubusercontent.com/35313138/187253718-dd5bd98f-7ee8-4204-bcc7-8e4c432d45a9.png)
