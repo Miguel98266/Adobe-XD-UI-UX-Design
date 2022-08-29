@@ -45,3 +45,7 @@
 ### Grabient
 - https://www.grabient.com/
 ![image](https://user-images.githubusercontent.com/35313138/187272831-a5870f32-d73a-406b-a615-337dbc80f153.png)
+
+## Fonts
+- https://fonts.adobe.com/fonts
+![image](https://user-images.githubusercontent.com/35313138/187278038-f4d96464-0bff-45d3-8651-ba14e6774640.png)
