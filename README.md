@@ -47,5 +47,15 @@
 ![image](https://user-images.githubusercontent.com/35313138/187272831-a5870f32-d73a-406b-a615-337dbc80f153.png)
 
 ## Fonts
+
+### Adobe fonts
 - https://fonts.adobe.com/fonts
 ![image](https://user-images.githubusercontent.com/35313138/187278038-f4d96464-0bff-45d3-8651-ba14e6774640.png)
+
+### Google Fonts
+- https://fonts.google.com/
+![image](https://user-images.githubusercontent.com/35313138/187278974-e3c99a06-0507-436e-853a-7cfeaa8991bc.png)
+
+### My fonts looking for a font with an image
+- https://www.myfonts.com/pages/whatthefont
+![image](https://user-images.githubusercontent.com/35313138/187286774-188b3fa8-e5ec-473f-ae22-1feeca88d6d8.png)
